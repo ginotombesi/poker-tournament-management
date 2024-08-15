@@ -1,7 +1,5 @@
 # Poker Tournament Management System
 
-![Poker Tournament]
-
 ## Overview
 
 **Poker Tournament Management System** is a comprehensive web application designed to simplify the organization and management of poker tournaments. The system allows users to register tournaments, manage tables, players, croupiers, prizes, and more. The backend is built with a microservices-oriented architecture using Node.js, Express, and SQL, while the frontend is developed with React. This project was a collaborative effort to create a robust and scalable solution for poker tournament management.
