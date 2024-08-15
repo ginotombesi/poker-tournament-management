@@ -69,7 +69,7 @@
      ```
 
 3. **Access the Application**:
-   - Once both servers are running, you can access the application in your browser at `http://localhost:3001` for the endpoints and `http://localhost:5173`.
+   - Once both servers are running, you can access the application in your browser at `http://localhost:3001` for the endpoints and `http://localhost:5173` for the webpage.
 
 ## Credits
 
